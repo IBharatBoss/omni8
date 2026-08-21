@@ -1,0 +1,18 @@
+{
+  "name": "OmniTools - Zero-Server Browser Swiss Knife",
+  "short_name": "OmniTools",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#D4D3CD",
+  "theme_color": "#176B74",
+  "icons": [
+    {
+      "src": "./logo.webp",
+      "type": "image/webp",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
